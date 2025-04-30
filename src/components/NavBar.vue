@@ -222,14 +222,14 @@ if ($modalTeleportElement) {
           <path d="M8.95 19.7c.7.8 1.7 1.3 2.8 1.3 1.6 0 2.9-1.1 3.3-2.5l-6.1 1.2Z" />
         </svg>
 
-        <span class="sr-only">Notification</span>
+        <span class="sr-only">Teleport</span>
       </button>
       <div
         id="tooltip-settings"
         role="tooltip"
         class="absolute z-10 invisible inline-block px-3 py-2 text-sm font-medium text-white transition-opacity duration-300 bg-gray-900 rounded-lg shadow-xs opacity-0 tooltip dark:bg-gray-700"
       >
-        Notification
+        Teleport
         <div
           class="tooltip-arrow"
           data-popper-arrow
